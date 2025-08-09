@@ -1,0 +1,36 @@
+body, html, #root {
+  margin: 0; padding: 0; height: 100%;
+  background-color: #121212; /* dark black */
+  color: #E0E0E0; /* light grey text */
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+a {
+  color: #3498db; /* blue accent */
+  text-decoration: none;
+}
+a:hover {
+  text-decoration: underline;
+}
+
+.container {
+  max-width: 1000px;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+h1, h2 {
+  color: #81a1c1; /* lighter blue-ish for headings */
+}
+
+button {
+  background-color: #3498db;
+  border: none;
+  color: white;
+  padding: 10px 20px;
+  cursor: pointer;
+  border-radius: 4px;
+}
+button:hover {
+  background-color: #2980b9;
+}
