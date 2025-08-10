@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/CrystalHosting/static/css/main.e6c13ad2.css",
-    "main.js": "/CrystalHosting/static/js/main.ebd711e1.js",
+    "main.js": "/CrystalHosting/static/js/main.df73c139.js",
     "static/js/453.e60632b7.chunk.js": "/CrystalHosting/static/js/453.e60632b7.chunk.js",
     "static/media/Crystal.png": "/CrystalHosting/static/media/Crystal.8a79613dc9dbc20e6381.png",
     "index.html": "/CrystalHosting/index.html",
     "main.e6c13ad2.css.map": "/CrystalHosting/static/css/main.e6c13ad2.css.map",
-    "main.ebd711e1.js.map": "/CrystalHosting/static/js/main.ebd711e1.js.map",
+    "main.df73c139.js.map": "/CrystalHosting/static/js/main.df73c139.js.map",
     "453.e60632b7.chunk.js.map": "/CrystalHosting/static/js/453.e60632b7.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e6c13ad2.css",
-    "static/js/main.ebd711e1.js"
+    "static/js/main.df73c139.js"
   ]
 }
